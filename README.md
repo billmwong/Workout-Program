@@ -12,12 +12,10 @@
 * 3x12 Machine Bench
 * 3x15 Lunges
 * 3x12 Machine Row
-
 * Superset:
   * 3x8 Pullups
   * 3x12 Bis
   * 3x15 Tris
-
 * 3x60s Planks
 
 
